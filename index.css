@@ -1,0 +1,13 @@
+.vermelho{
+    display: flex;
+    height: 100vh ;
+    background-color: greenyellow;
+    overflow: hidden;
+    
+   
+}
+.azul{
+    height: 100vh ;
+    background-color:blue;
+    overflow: hidden;
+}
